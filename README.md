@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Christian Bonami
-- 👀 I’m interested in Enterprise Applications and everything that this envolves. Java, TypeScript, Kotlin, Kubernetes, Microservices, and much more.
+- 👋 Hi, I’m Christian Bonami and I live in Belgium.
+- 👀 I’m interested in architecting and building Enterprise Applications and everything that goes with it. Java, TypeScript, Kotlin, Kubernetes, Microservices, and much more.
 - 🌱 I’m currently learning Apache Flink.
 - 📫 christian.bonami@edonis.biz
 
